@@ -1,0 +1,4 @@
+# Create a ship with two operational torpedo stores
+GT4500,10,0,10,0
+# Fire with ALL mode; both stores should fire
+TORPEDO,ALL

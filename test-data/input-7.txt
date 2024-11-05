@@ -1,0 +1,4 @@
+# Create a ship with primary store failing and operational secondary store
+GT4500,10,1,10,0
+# Fire with SINGLE mode; primary should fail, secondary should not fire
+TORPEDO,SINGLE
