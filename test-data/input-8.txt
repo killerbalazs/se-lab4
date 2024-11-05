@@ -1,0 +1,4 @@
+# Create a ship with an empty primary store and a stocked secondary store
+GT4500,0,0,10,0
+# Fire with SINGLE mode; should fire from secondary store as primary is empty
+TORPEDO,SINGLE
